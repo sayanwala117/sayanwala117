@@ -2,6 +2,8 @@
 A Computer Science and Business Administration student at Wilfrid Laurier University.  
 I Enjoy solving real-world problems with code and collaborating on innovative projects.  
 
+![Profile Views](https://komarev.com/ghpvc/?username=sayanwala117&color=blue)
+
 ### About me:  
 - 🎮 Gamer at heart who loves customizing and enhancing tech experiences.  
 - 💡 Enjoys brainstorming creative solutions and learning new technologies.  
