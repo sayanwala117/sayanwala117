@@ -20,6 +20,7 @@ I Enjoy solving real-world problems with code and collaborating on innovative pr
 Seeking **Summer 2025 Software Development Internships** to grow and make an impact!  
 
 ### Github Statistics 
+- **Total Stars Earned:** ![GitHub Stars](https://img.shields.io/github/stars/sayanwala117?style=social)
 - **Total Contributions:** ![GitHub Contributions](https://img.shields.io/badge/Total%20Contributions-1000+-blue)
 - **Total Repositories:** ![GitHub Repositories](https://img.shields.io/badge/Repositories-50+-brightgreen)
 
