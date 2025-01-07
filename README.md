@@ -12,8 +12,6 @@ I Enjoy solving real-world problems with code and collaborating on innovative pr
 - [**USecDrive**](https://github.com/sayanwala117/USecDrive) - Collaborative platform for creating and sharing anime lists.  
 - [**Color-to-Grayscale**](https://github.com/sayanwala117/Color-to-Grayscale) - Discover concerts and events with Spotify integration.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanwala117&layout=compact&theme=radical)
-
 ### Let's connect:  
 - 🌐 My portfolio: [jjawanda.me](https://www.jjawanda.me/)  
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/jaspreet-jawanda-559119308/?originalSubdomain=ca)  
