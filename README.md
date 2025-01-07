@@ -2,8 +2,6 @@
 A Computer Science and Business Administration student at Wilfrid Laurier University.  
 I Enjoy solving real-world problems with code and collaborating on innovative projects.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=sayanwala117&color=blue)
-
 ### About me:  
 - 🎮 Gamer at heart who loves customizing and enhancing tech experiences.  
 - 💡 Enjoys brainstorming creative solutions and learning new technologies.  
@@ -13,6 +11,10 @@ I Enjoy solving real-world problems with code and collaborating on innovative pr
 - [**SStarty**](https://github.com/sayanwala117/SStarty/) - Personalized startup movies for Steam Big Picture Mode.  
 - [**USecDrive**](https://github.com/sayanwala117/USecDrive) - Collaborative platform for creating and sharing anime lists.  
 - [**Color-to-Grayscale**](https://github.com/sayanwala117/Color-to-Grayscale) - Discover concerts and events with Spotify integration.  
+
+### Github Statistics
+![Sayanwala's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanwala117&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanwala117&layout=compact&theme=radical)
 
 ### Let's connect:  
 - 🌐 My portfolio: [jjawanda.me](https://www.jjawanda.me/)  
