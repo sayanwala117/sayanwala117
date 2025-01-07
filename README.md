@@ -1,17 +1,20 @@
-# Hi 👋🏽, I'm Jaspreet Jawnada
+# Hi, I'm Jaspreet Jawnada 👋  
+A Computer Science and Business Administration student at Wilfrid Laurier University.  
+I love solving real-world problems with code and collaborating on innovative projects.  
 
-I'm a Computer Science and Business Administration student @ Wilfrid Laurier University.
+### About me:  
+- 🎮 Gamer at heart who loves customizing and enhancing tech experiences.  
+- 💡 Enjoys brainstorming creative solutions and learning new technologies.  
+- 🛠️ Tinkerer who enjoys building gadgets and experimenting with DIY projects.
 
-I enjoy creating tech solutions with people, for people.
+### Projects I've worked on:  
+- [**SStarty**](https://github.com/sayanwala117/SStarty/) - Personalized startup movies for Steam Big Picture Mode.  
+- [**USecDrive**](https://github.com/sayanwala117/USecDrive) - Collaborative platform for creating and sharing anime lists.  
+- [**Color-to-Grayscale**](https://github.com/sayanwala117/Color-to-Grayscale) - Discover concerts and events with Spotify integration.  
 
-### Some things I've [made](https://github.com/sayanwala117?tab=repositories):
-- [SStarty](https://github.com/sayanwala117/SStarty/) - Steam big picture mode customizer. Program changes the startup movie for steam
-- [USecDrive](https://github.com/sayanwala117/USecDrive) - An online platform letting users create and share collaborative anime lists
-- [Color-to-Grayscale](https://github.com/sayanwala117/Color-to-Grayscale) - View upcoming concerts and events of your top artists by connecting your Spotify account
+### Let's connect:  
+- 🌐 My portfolio: [jjawanda.me](https://www.jjawanda.me/)  
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/jaspreet-jawanda-559119308/?originalSubdomain=ca)  
 
-Check out my website: [jjawanda.me](https://www.jjawanda.me/)
-
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/jaspreet-jawanda-559119308/?originalSubdomain=ca)
-
-**Currently seeking Summer 2025 software development Internships!**
-
+### 🚀 Currently:  
+Seeking **Summer 2025 Software Development Internships** to grow and make an impact!  
