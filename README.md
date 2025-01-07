@@ -10,7 +10,8 @@ I Enjoy solving real-world problems with code and collaborating on innovative pr
 ### Projects I've worked on:  
 - [**SStarty**](https://github.com/sayanwala117/SStarty/) - Personalized startup movies for Steam Big Picture Mode.  
 - [**USecDrive**](https://github.com/sayanwala117/USecDrive) - Collaborative platform for creating and sharing anime lists.  
-- [**Color-to-Grayscale**](https://github.com/sayanwala117/Color-to-Grayscale) - Discover concerts and events with Spotify integration.  
+- [**Color-to-Grayscale**](https://github.com/sayanwala117/Color-to-Grayscale) - Discover concerts and events with Spotify integration.
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanwala117&layout=compact&theme=radical)
 
 ### Let's connect:  
