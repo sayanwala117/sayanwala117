@@ -16,7 +16,7 @@ I Enjoy solving real-world problems with code and collaborating on innovative pr
 - 🌐 My portfolio: [jjawanda.me](https://www.jjawanda.me/)  
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/jaspreet-jawanda-559119308/?originalSubdomain=ca)  
 
-## Programming Languages
+### Programming Languages
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-%23F8981D?style=for-the-badge&logo=oracle&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,10 +24,11 @@ I Enjoy solving real-world problems with code and collaborating on innovative pr
 ![Static Badge](https://img.shields.io/badge/MATLAB-%234B5562?style=for-the-badge&logo=matrix&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C++-%234B5562?style=for-the-badge&logo=matrix&logoColor=white)
 
-## Tools and Platforms
+### Tools and Platforms
 ![Static Badge](https://img.shields.io/badge/Eclipse%20IDE-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=vscodium&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Notepad%2B%2B-%2390E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+![Static Badge](https://img.shields.io/badge/PyCharm-%2390E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 ### 🚀 Currently:  
 Seeking **Summer 2025 Software Development Internships** to grow and make an impact!  
