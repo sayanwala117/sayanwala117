@@ -22,7 +22,7 @@ I Enjoy solving real-world problems with code and collaborating on innovative pr
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MATLAB-%234B5562?style=for-the-badge&logo=matrix&logoColor=white)
-![Static Badge](https://img.shields.io/badge/C++-%234B5562?style=for-the-badge&logo=matrix&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C++-%234B5562?style=for-the-badge&logo=C++&logoColor=purple)
 
 ### Tools and Platforms
 ![Static Badge](https://img.shields.io/badge/Eclipse%20IDE-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
