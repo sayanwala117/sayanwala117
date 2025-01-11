@@ -13,7 +13,7 @@ I Enjoy solving real-world problems with code and collaborating on innovative pr
 - [**Color-to-Grayscale**](https://github.com/sayanwala117/Color-to-Grayscale) - Discover concerts and events with Spotify integration.
 
 ### Let's connect:  
-- 🌐 My WEbsite: [jjawanda.me](https://www.jjawanda.me/)  
+- 🌐 My Website: [jjawanda.me](https://www.jjawanda.me/)  
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/jaspreet-jawanda-559119308/?originalSubdomain=ca)  
 
 ### Programming Languages
