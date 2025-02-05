@@ -20,6 +20,7 @@ I Enjoy solving real-world problems with code and collaborating on innovative pr
         <img src="https://img.shields.io/github/followers/sayanwala117?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
     </a>
 </p>
+
 ### Programming Languages
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-%23F8981D?style=for-the-badge&logo=oracle&logoColor=white)
