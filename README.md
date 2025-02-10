@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=apple+system&size=25&pause=1000&color=D3D9E2FF&width=435&lines=Hey%2C+my+name+is+Jaspreet+Jawanda!;I+am+a+Full-Stack+Engineer;A+Computer+Science+Student;Gamer%2C+Tech+enthusiast%2C+%26+Tinkerer" alt="Welcome to my profile!"/>
 </h1>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sayanwala117&abbreviated=true&color=blue&style=for-the-badge" alt="Profile views"/>
+</div>
+
+<br>
+
 # Hi, I'm Jaspreet Jawnada 👋
 
 A Computer Science and Business Administration student at Wilfrid Laurier University.  
