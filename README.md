@@ -27,7 +27,7 @@ I Enjoy solving real-world problems with code and collaborating on innovative pr
 - 🌐 My Website: [jjawanda.me](https://www.jjawanda.me/)  
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/jaspreet-jawanda-559119308/?originalSubdomain=ca)
 <p align="center">
-    <a href="https://github.com/prabhxyz?tab=followers">
+    <a href="https://github.com/sayanwala117?tab=followers">
         <img src="https://img.shields.io/github/followers/sayanwala117?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
     </a>
 </p>
