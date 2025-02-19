@@ -1,13 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=apple+system&size=25&pause=1000&color=D3D9E2FF&width=435&lines=Hey%2C+my+name+is+Jaspreet+Jawanda!;I+am+a+Full-Stack+Engineer;A+Computer+Science+Student;Gamer%2C+Tech+enthusiast%2C+%26+Tinkerer" alt="Welcome to my profile!"/>
-</h1>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayanwala117&abbreviated=true&color=blue&style=for-the-badge" alt="Profile views"/>
-</div>
-
-<br>
-
 # Hi, I'm Jaspreet Jawnada 👋
 
 A Computer Science and Business Administration student at Wilfrid Laurier University.  
@@ -26,7 +16,7 @@ I Enjoy solving real-world problems with code and collaborating on innovative pr
 ### Let's connect:  
 - 🌐 My Website: [jjawanda.me](https://www.jjawanda.me/)  
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/jaspreet-jawanda-559119308/?originalSubdomain=ca)
-<p align="center">
+<p align="left">
     <a href="https://github.com/sayanwala117?tab=followers">
         <img src="https://img.shields.io/github/followers/sayanwala117?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
     </a>
