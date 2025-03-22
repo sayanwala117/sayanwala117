@@ -10,8 +10,8 @@ I Enjoy solving real-world problems with code and collaborating on innovative pr
 
 ### Projects I've worked on:  
 - [**SStarty**](https://github.com/sayanwala117/SStarty/) - Personalized startup movies for Steam Big Picture Mode.  
-- [**USecDrive**](https://github.com/sayanwala117/USecDrive) - Collaborative platform for creating and sharing anime lists.  
-- [**Color-to-Grayscale**](https://github.com/sayanwala117/Color-to-Grayscale) - Discover concerts and events with Spotify integration.
+- [**USecDrive**](https://github.com/sayanwala117/USecDrive) - Secures your files on the cloud. 
+- [**Color-to-Grayscale**](https://github.com/sayanwala117/Color-to-Grayscale) - Converts imgages from color to black and white without any loss of quality.
 
 ### Let's connect:  
 - 🌐 My Website: [jjawanda.me](https://www.jjawanda.me/)  
