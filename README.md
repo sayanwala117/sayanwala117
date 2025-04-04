@@ -36,7 +36,7 @@ I Enjoy solving real-world problems with code and collaborating on innovative pr
 ![Static Badge](https://img.shields.io/badge/PyCharm-%2390E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 ### 🚀 Currently:  
-Seeking **Summer 2025 Software Development Internships** to grow and make an impac
+Seeking **Summer 2025 Software Development Internships** to grow and make an impact
 
 ### Github Statistics 
 - **Total Contributions:** ![GitHub Contributions](https://img.shields.io/badge/Total%20Contributions-100+-blue)
