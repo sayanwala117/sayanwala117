@@ -4,7 +4,7 @@ A Computer Science and Business Administration student at Wilfrid Laurier Univer
 I Enjoy solving real-world problems with code and collaborating on innovative projects.
 
 ### About me:  
-- 🎮 Gamer at heart who loves customizing and enhancing tech experiences.  
+- 🎮 Gamer at heart who loves customizing and enhancing tech experiences.
 - 💡 Enjoys brainstorming creative solutions and learning new technologies.  
 - 🛠️ Tinkerer who enjoys building gadgets and experimenting with DIY projects.
 
