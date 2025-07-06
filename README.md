@@ -37,6 +37,7 @@ Seeking **Summer 2025 Software Development Internships** to grow and make an imp
 - **Total Contributions:** ![GitHub Contributions](https://img.shields.io/badge/Total%20Contributions-100+-blue)
 - **Total Repositories:** ![GitHub Repositories](https://img.shields.io/badge/Repositories-10+-brightgreen)
 
-
+<p align = center>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanwala117&layout=compact&theme=onedark)
+</p>
 
