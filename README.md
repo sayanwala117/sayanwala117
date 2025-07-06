@@ -1,3 +1,4 @@
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 # Hi, I'm Jaspreet Jawnada👋
 
 A Computer Science and Business Administration student at Wilfrid Laurier University.  
