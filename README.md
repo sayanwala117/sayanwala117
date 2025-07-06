@@ -1,6 +1,4 @@
 ![Logo](https://jjawanda.me/images/logo.png)
-# Hi, I'm Jaspreet Jawnada👋
-
 A Computer Science and Business Administration student at Wilfrid Laurier University.  
 I Enjoy solving real-world problems with code and collaborating on innovative projects.
 
