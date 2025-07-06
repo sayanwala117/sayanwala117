@@ -1,8 +1,6 @@
 ![Logo](https://jjawanda.me/images/logo.png)
 ---
-<p align=center>
 #Hey my name is Jaspreet Jawanda 
-</p>
 ---
 A Computer Science and Business Administration student at Wilfrid Laurier University.  
 I Enjoy solving real-world problems with code and collaborating on innovative projects.
