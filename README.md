@@ -1,4 +1,4 @@
-![Logo](https://jjawanda.me/images/logo.png)
+<img src="https://jjawanda.me/images/logo.png" width="50%">
 ---
 # Hey my name is Jaspreet Jawanda 
 ---
